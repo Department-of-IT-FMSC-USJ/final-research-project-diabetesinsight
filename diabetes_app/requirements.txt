@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+catboost
+shap
+imbalanced-learn
+pyreadstat
+streamlit
+openai
+scikit-fuzzy
+joblib
+seaborn
+networkx
+matplotlib
+azure-ai-inference
